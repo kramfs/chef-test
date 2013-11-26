@@ -8,3 +8,4 @@ version          '0.1.0'
 
 depends "rightscale"
 recipe "timeout_test::default","Prints hello world output"  
+recipe "timeout_test::timeout","Run script which should timeput in 1s"  
