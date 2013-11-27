@@ -7,5 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
-rightscale_marker
+rightscale_marker :begin
 log "Hello World! You should try Chef with RightScale!"
+rightscale_marker :end
